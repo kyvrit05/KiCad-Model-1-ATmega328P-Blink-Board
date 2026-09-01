@@ -6,14 +6,22 @@ The project focuses on understanding the basic PCB design workflow, including sc
 
 Key Notes: 
 
-1) Shortcuts: 
+1) Shortcuts:
+
 A - bring up circuit components 
+
 P - power and GND components 
+
 V - input a value to a component 
+
 R - rotate a component by 90'
 
-2) Abbreviations:
+3) Abbreviations:
+   
 ERC - electrical rules checker
+
 THT - through-hole ( for soldering back of the PCB )
+
 SMD - surface-mount ( no holes on PCB )
+
 ESR - equivalent series resistance ( how much internal resistance there is in a component ) 
