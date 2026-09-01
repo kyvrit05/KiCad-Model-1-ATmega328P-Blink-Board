@@ -50,3 +50,7 @@ p.s find my cute logo in the design ~
 <p align="center">
   <img width="500" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ca35b586-6a46-4407-a71b-c0d729276384" />
 </p>
+
+<p align="center">
+  <img width="500"  alt="Screenshot 2026-09-02 035146" src="https://github.com/user-attachments/assets/e2fa1cf1-dbc1-4bc8-b0e7-ebcb0ae4084a" />
+</p>
